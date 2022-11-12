@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumitra Pandit
-- 👀 I’m interested in RL, Algorithms and other cool things
-- 🌱 I’m currently learning RL, Algorithms and other cool things
+- 👀 I’m interested in RL, Sim2Real Robotics, game theory and other cool things
+- 🌱 I’m currently learning Statistical Learning and Algorithm Desing
 - 💞️ I’m looking to collaborate on anything that requires algorithmic thinking.
 - 📫 How to reach me - spandit@wpi.edu
 
