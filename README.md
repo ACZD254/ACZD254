@@ -1,6 +1,6 @@
 - Hi, I’m Soumitra Pandit
 - I’m interested in RL, Controls, game theory and other cool things
-- I'm also interested in Psych and philosophy and many of my upcoming projects will reflect that
+- I'm also interested in Psych and philosophy
 - I’m currently learning practical deep learning, building environments in Unity and RL
 - How to reach me - spandit@wpi.edu
 
