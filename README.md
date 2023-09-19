@@ -1,7 +1,7 @@
 - Hi, I’m Soumitra Pandit
-- I’m interested in RL, Controls, game theory and other cool things
+- I’m interested in Applied Math and Computer Science
 - I'm also interested in Psych and philosophy
-- I’m currently learning practical deep learning, building environments in Unity and RL
+- I’m currently doing research in CS and designing a Type System for a language based on HoTT.
 - How to reach me - spandit@wpi.edu
 
 <!---
