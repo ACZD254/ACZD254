@@ -1,5 +1,5 @@
 - Hi, I’m Soumitra Pandit
-- I’m interested in Applied Math and Computer Science
+- I’m interested in Abstract Math and Computer Science
 - I'm also interested in Psych and philosophy
 - I’m currently doing research in CS and designing a Type System for a language based on HoTT.
 - How to reach me - spandit@wpi.edu
