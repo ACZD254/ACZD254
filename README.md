@@ -1,4 +1,4 @@
-- Hi, I’m Soumitra Pandit
+- Hi, I’m Soumitra Pandit and I really need to add ReadMe Files. 
 - You can find some of the cool stuff I've built here.
 - How to reach me - spandit@wpi.edu
 
